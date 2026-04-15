@@ -6,8 +6,8 @@ namespace BudgetTracker
 {
     class Program
     {
-        static List<string> categories = new List<string> { "Rent", "Groceries", "Internet" };
-        static List<double> expenses = new List<double> { 950, 250.00, 60.00 };
+        static List<string> categories = new List<string> { "Rent", "Takeout", "Wifi" };
+        static List<double> expenses = new List<double> { 950, 100.00, 50.00 };
         static double monthlyLimit = 2000.00;
 
         static void Main(string[] args)

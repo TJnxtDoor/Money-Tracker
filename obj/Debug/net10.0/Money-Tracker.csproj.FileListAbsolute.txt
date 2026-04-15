@@ -1,0 +1,15 @@
+C:\Users\Tj\Documents\GitHub\Money-Tracker\bin\Debug\net10.0\Money-Tracker.exe
+C:\Users\Tj\Documents\GitHub\Money-Tracker\bin\Debug\net10.0\Money-Tracker.deps.json
+C:\Users\Tj\Documents\GitHub\Money-Tracker\bin\Debug\net10.0\Money-Tracker.runtimeconfig.json
+C:\Users\Tj\Documents\GitHub\Money-Tracker\bin\Debug\net10.0\Money-Tracker.dll
+C:\Users\Tj\Documents\GitHub\Money-Tracker\bin\Debug\net10.0\Money-Tracker.pdb
+C:\Users\Tj\Documents\GitHub\Money-Tracker\obj\Debug\net10.0\Money-Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tj\Documents\GitHub\Money-Tracker\obj\Debug\net10.0\Money-Tracker.AssemblyInfoInputs.cache
+C:\Users\Tj\Documents\GitHub\Money-Tracker\obj\Debug\net10.0\Money-Tracker.AssemblyInfo.cs
+C:\Users\Tj\Documents\GitHub\Money-Tracker\obj\Debug\net10.0\Money-Tracker.csproj.CoreCompileInputs.cache
+C:\Users\Tj\Documents\GitHub\Money-Tracker\obj\Debug\net10.0\Money-Tracker.sourcelink.json
+C:\Users\Tj\Documents\GitHub\Money-Tracker\obj\Debug\net10.0\Money-Tracker.dll
+C:\Users\Tj\Documents\GitHub\Money-Tracker\obj\Debug\net10.0\refint\Money-Tracker.dll
+C:\Users\Tj\Documents\GitHub\Money-Tracker\obj\Debug\net10.0\Money-Tracker.pdb
+C:\Users\Tj\Documents\GitHub\Money-Tracker\obj\Debug\net10.0\Money-Tracker.genruntimeconfig.cache
+C:\Users\Tj\Documents\GitHub\Money-Tracker\obj\Debug\net10.0\ref\Money-Tracker.dll

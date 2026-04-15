@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Money-Tracker/1.0.0": {
+        "runtime": {
+          "Money-Tracker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Money-Tracker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
